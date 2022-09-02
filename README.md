@@ -1,4 +1,4 @@
-# hackerank's Super Digit Solution
+# hackerank's Super Digit Solution (Recursive Digit Sum)
 
 ## Problem Definition
 
