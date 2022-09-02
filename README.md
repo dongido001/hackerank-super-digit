@@ -44,3 +44,4 @@ All of the digits of p sum to 116. The digits of 116 sum to 8. 8 is only one dig
 
 ## My Solution
 
+[solution.js](./solution.js)
